@@ -4,7 +4,7 @@
 }
 .container{
     height:825px;
-    background-image: url("../assests/instagram.jpg");
+    background-image: url("instagram.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
